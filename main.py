@@ -29,4 +29,4 @@ food = input ("Give me your favorite food: " )
 
 
 print("In the year 2069, the world has been take by the robot and humans are into hiding")
-print("You are the only human alive who controls the key to turn all the robot off. You will be accompanied ")
+print("You are the only human alive who controls the key to turn all the robot off. You will be accompanied by ")
